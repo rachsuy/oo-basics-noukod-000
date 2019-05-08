@@ -2,4 +2,4 @@ class Book
   
 end
 
-Book.new()
+Book.new("And Then There Were None")
